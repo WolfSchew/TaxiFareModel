@@ -1,0 +1,15 @@
+artifact_uri: file:///home/wolfgang/code/WolfSchew/TaxiFareModel/mlruns/1/ec74ca11517f446e9f42abbb99c12849/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ec74ca11517f446e9f42abbb99c12849
+run_uuid: ec74ca11517f446e9f42abbb99c12849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621948220218
+status: 1
+tags: []
+user_id: unknown
