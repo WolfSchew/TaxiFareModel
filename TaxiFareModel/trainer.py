@@ -70,8 +70,6 @@ if __name__ == "__main__":
 
     # train
     test = Trainer(X_train, y_train)
-
-    test.set_pipeline()
     test.run()
 
     # evaluate
